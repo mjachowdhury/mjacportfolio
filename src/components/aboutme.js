@@ -11,8 +11,8 @@ class Aboutme extends Component {
             <div style={{ textAlign: "center" }}>
               <img
                 className="profile-pic"
-                src="images/profilepic.jpg"
-                alt="Avater"
+                src="public/images/profilepic.jpg"
+                alt="Profile Pic"
                 style={{ height: "200px" }}
               />
             </div>

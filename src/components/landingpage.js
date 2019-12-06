@@ -9,8 +9,8 @@ class Landing extends Component {
           <Cell col={12}></Cell>
           <img
             className="profile-pic"
-            src="images/profilepic.jpg"
-            alt="Avatar"
+            src="public/images/profilepic.jpg"
+            alt="Profile Picture"
           />
           <div className="banner-text">
             <h4>Hello, I'm Mohammed Alom</h4>
