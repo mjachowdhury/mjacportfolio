@@ -10,8 +10,8 @@ class Contact extends Component {
             <h4>Mohammed Chowdhury</h4>
             <img
               className="profile-pic"
-              src="public/images/profilepic.jpg"
-              alt="Profile pic"
+              src="images/profilepic.jpg"
+              alt=""
               style={{ height: "250px" }}
             />
             <p style={{ width: "75%", margin: "auto", paddingTop: "1em" }}>
