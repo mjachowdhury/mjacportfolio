@@ -3,8 +3,8 @@ Personal Portfolio Done by React
 
 
 You can fork or download the projct. make sure you have install nodeJs and npm.
-Once you fork the project go the project directory and run npm install.
-
+Once you fork the project go the project directory and run.
+### `npm install`
 Then in the project directory, you can run:
 
 ### `npm start`
